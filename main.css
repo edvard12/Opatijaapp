@@ -63,6 +63,20 @@ div.cube {
 
 }
 
+div.language {
+  width: 100%;
+  max-width: 510px;
+  margin: auto;
+  text-align: center;
+}
+
+div.lang {
+  display: inline-block;
+  margin-left: 3%;
+
+}
+
+
 div.bilder {
   width: 100%;
   max-width: 650px;
@@ -176,6 +190,22 @@ div.cubes {
   text-align: center;
   margin-top: 2%;
 }
+
+
+div.lang img {
+                max-height: 50px;
+                max-width: 84px;
+                object-fit: cover;
+                margin-top: 3%;
+            }            
+            
+div.language {
+  width: 100%;
+  max-width: 630px;
+  margin: auto;
+  text-align: center;
+}
+
 
 div.bilder {
   width: 100%;
