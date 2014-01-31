@@ -6,14 +6,14 @@
         id        = "nu.opatija.guide"
         version   = "1.0.4">
 
-    <name>Pula guide</name>
+    <name>Opatija guide</name>
 
     <description>
-       Pula - Kroatiens pärla!
+       Opatija - Kroatiens pärla!
     </description>
 
     <author href="http://pula.nu" email="info@pula.nu">
-       Pula.nu Team
+       Opatija.nu Team
     </author>
 
     <!--
